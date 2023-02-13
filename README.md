@@ -12,3 +12,5 @@ After following the instructions in installation:
 3. Open the "server.js" file in your integrated terminal. 
 4. Run command "npm run seed" (or "node seeds/index.js") to seed the database if desired.
 5. Run command "npm run start" (or "node server.js"). Alternatively, if you have Nodemon installed, run "npm run watch" (or "nodemon server.js"). 
+
+![Alt text](Capture.PNG)
